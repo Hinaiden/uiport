@@ -1,0 +1,47 @@
+.mainAbout {
+  padding: 10% 15%;
+}
+
+.textBox {
+  padding: 5% 12%;
+}
+
+.navbar {
+  padding: 0 18%;
+}
+
+hr {
+  width: 20%;
+  height: 1rem;
+}
+
+.title {
+  text-align: center;
+}
+
+.profilePic {
+  border-radius: 50%;
+}
+
+.mySkills {
+  text-align: center;
+  padding: 3% 20%;
+}
+
+.myProjects {
+  text-align: center;
+  padding: 3% 16%;
+}
+
+.line {
+  display: block;
+}
+
+footer {
+  text-align: center;
+  padding: 2% 15%;
+}
+
+.content {
+  padding: 40px;
+}
